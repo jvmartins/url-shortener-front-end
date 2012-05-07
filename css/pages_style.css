@@ -1,0 +1,146 @@
+body {
+	text-align: center;
+	min-width: 800px;
+	background-image: url("../images/skinPalmeiras.jpg");
+	background-position: 50% 0;
+	background-repeat: no-repeat;
+	background-color: #208929;
+	Font-Family: “Tahoma”, Geneva, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.divBase {
+	background-color: #FFFFFF;
+	width: 780px;
+	margin: 1px auto 0;
+	padding-top: 1px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url("css/border-radius.htc");
+}
+
+.divPrincipal {
+	height: 810px;
+	margin: 1px auto 0;
+}
+
+.divEncurtar {
+	margin: 20px 0px 20px 23px;
+	float: left;
+}
+
+.divLado {
+	float: right;
+	height: 780px;
+	width: 225px;
+	margin: 7px 12px 10px 0px;
+}
+
+.divTwitterLado {
+	height: 592px;
+	width: 225px;
+	margin: 0px 12px 10px 0px;
+}
+
+.divDivulgacaoLado {
+	border-style: solid;
+	border-color: black;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url("css/border-radius.htc");
+	height: 166px;
+	width: 221px;
+	margin: 10px 12px 20px 0px;
+}
+
+.divRodape {
+	height: 20px;
+	margin: 10px auto 20px auto;
+	font-size: 13px;
+}
+
+.logo {
+	margin: 3em auto 2em auto;
+}
+
+.divCorpoBase {
+	margin: 85px 28px auto 28px;
+	text-align: left;
+	width: 495px;
+	height: 700px;
+}
+
+.divResultado {
+	display: none;
+}
+
+.divDescricao {
+	font-size: 14px;
+	color: #1C1C1C;
+}
+
+.divDonate {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+.textoURL {
+	border: 1px solid #CACACA;
+	color: #333333;
+	float: left;
+	font-size: 33px;
+	height: 46px;
+	padding: 1px;
+	width: 400px;
+}
+
+.botaoSubmit {
+	border: 1px solid #CACACA;
+	color: #333333;
+	cursor: pointer;
+	float: right;
+	font-size: 14px;
+	font-weight: bold;
+	height: 50px;
+	text-align: center;
+	width: 100px;
+}
+
+.divCopy {
+	height: 32px;
+	width: 360px;
+	padding: 20px 10px;
+	border: 2px dashed grey;
+	position: relative;
+	margin: 0 auto;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #e8f3ea;
+}
+
+.divLinks {
+	padding-left: 265px;
+}
+
+.imgCopy {
+	width: 35px;
+	height: 39px;
+	position: absolute;
+	left: 44%;
+	top: -20px;
+}
+
+.divCopyArea {
+	width: 350px;
+	font-size: 20pt;
+	font-weight: bold;
+	border: 0px none;
+	text-align: center;
+	color: #00000;
+	background-color: #e8f3ea;
+}

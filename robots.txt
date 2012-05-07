@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /zdc1
+Disallow: /css
+Disallow: /images
+Disallow: /includes
+Disallow: /js
+Disallow: /pages
+
+
